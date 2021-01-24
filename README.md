@@ -1,2 +1,2 @@
-# tryebrty
-ertyerty
+# synchronousBallMovement
+Ball moving synchronously
